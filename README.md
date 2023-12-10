@@ -37,5 +37,5 @@ const david = {
 
 <hr>
 
-⭐️ From [@david](https://github.com/DavidMenendezBlanco)
+⭐️ From [@david](https://github.com/DavCode46)
 
