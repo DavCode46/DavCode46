@@ -1,5 +1,5 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-(https://raw.githubusercontent.com/DavCode46/logo/)
+(https://raw.githubusercontent.com/DavCode46/logo)
 
 
 ##  Hi there 👋, I'm David 
