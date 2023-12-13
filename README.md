@@ -1,5 +1,6 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-(https://raw.githubusercontent.com/DavCode46/logo)
+
+<span>![</span><span>Logo</span><span>]</span><span>(</span><span>https://raw.githubusercontent.com/DavCode46/WaterPy/master/white_logo_transparent_background.png</span><span>)</span>
 
 
 ##  Hi there 👋, I'm David 
