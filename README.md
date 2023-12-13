@@ -1,6 +1,9 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img src='https://i.postimg.cc/2yKYbK0g/logo-transparent-background.png'>
+Hi there 👋, I'm David 
+<br/>
+<br/>
 
-##  Hi there 👋, I'm David 
 
 [![](https://img.shields.io/badge/LinkedIn-DavidMenendez-blue)](https://www.linkedin.com/in/david-menendez-blanco-056a18252/)
 [![](https://img.shields.io/badge/Gmail-davidblanco1993%40gmail.com-red)](mailto:davidblanco1993@gmail.com)
