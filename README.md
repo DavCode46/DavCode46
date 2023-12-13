@@ -1,5 +1,6 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-[logo-transparent-background.png](https://postimg.cc/s113Xryk)
+![Texto alternativo](https://postimg.cc/s113Xryk)
+
 
 ##  Hi there 👋, I'm David 
 
