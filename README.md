@@ -1,8 +1,5 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<span>![</span><span>Logo</span><span>]</span><span>(</span><span>https://raw.githubusercontent.com/DavCode46/WaterPy/master/white_logo_transparent_background.png</span><span>)</span>
-
-
 ##  Hi there 👋, I'm David 
 
 [![](https://img.shields.io/badge/LinkedIn-DavidMenendez-blue)](https://www.linkedin.com/in/david-menendez-blanco-056a18252/)
