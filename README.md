@@ -36,7 +36,7 @@ const david = {
 
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMenendezBlanco&show_icons=true)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=DavCode46&show_icons=true)
 
 <hr>
 
