@@ -13,7 +13,6 @@ Hi there 👋, I'm David
 
 ```javascript
 const david = {
-    pronouns: "He" | "Him",
     askMeAbout: ["web dev", "tech"],
     technologies:{
         backEnd: ["PHP"],
