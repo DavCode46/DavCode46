@@ -1,43 +1,44 @@
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<img src='https://i.postimg.cc/2yKYbK0g/logo-transparent-background.png' width="140">
-Hi there 👋, I'm David 
-<br/>
-<br/>
+<h1 align="center"><b>Hi , I'm David </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+
+I am a multiplatform developer, currently advancing my career in software development. I am expanding my knowledge in both front-end and back-end development. I love to learn and build something new, productive, innovative, and creative.
+
+- 🌱 I’m currently learning ...
+  - React
+  - React Native
+  - Jetpack Compose
+
+- 👯 I’m looking forward to collaborating on open source projects.
+- ✔ Ask me about anything, I am happy to help!<br>
+- Outside tech, 🌟 I love enjoying nature with my dogs, 🎮 playing video games, and 🏎 exploring the world of motorsports.
+- 💌 Reach out to me at: <a href="davidblanco1993@gmail.com">valenwerlecontacto@gmail.com</a>
 
 
-[![](https://img.shields.io/badge/LinkedIn-DavidMenendez-blue)](https://www.linkedin.com/in/david-menendez-blanco-056a18252/)
-[![](https://img.shields.io/badge/Gmail-davidblanco1993%40gmail.com-red)](mailto:davidblanco1993@gmail.com)
+
+## My Skills Include
+
+<h4> Languages </h4>
+<span> 
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap, tailwind, react express, java, spring, kotlin, nodejs)](https://skillicons.dev)
+</span>
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<h4> Other Tools and Technologies </h4>
+<span>
+ [![My Skills](https://skillicons.dev/icons?i=mysql, mongodb, aws, figma, git, maven, materialui, notion, postman)](https://skillicons.dev)
+</span>
 
-```javascript
-const david = {
-    askMeAbout: ["web dev", "tech"],
-    technologies:{
-        backEnd: ["PHP"],
-        frontEnd: ["HTML", "CSS", "JavaScript", "ReactJS", "Bootstrap"],
-        database: ["MySQL"],
-        devOps: ["AWS"],
-        versionControl: ["Git"]
-    },
-    toLearn = {
-        technologies: ["Laravel", "nodeJS", "express", "MongoDB", "Docker"],
-        languages: ["English"]
-    } 
-}
-```
+## Check out my Social Media
 
----
-<br/>
+<a href= "[https://www.instagram.com/valenwerle/?hl=es](https://www.linkedin.com/in/david-menendez-blanco-056a18252/)">
+    [![My Skills](https://skillicons.dev/icons?i=linkedin)]
+</a>
+<h2>Github stats:</h2> 
 
-<br/>
-
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
-
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=DavCode46&show_icons=true)
-
-<hr>
-
-⭐️ From [@david](https://github.com/DavCode46)
+[![](https://github-readme-stats.vercel.app/api?username=DavCode46&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/DavCode46)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=DavCode46&theme=material-palenight)](https://github.com/DavCode46)
+</div>
 
