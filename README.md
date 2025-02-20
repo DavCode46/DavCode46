@@ -40,7 +40,7 @@ I am a multiplatform developer. I am expanding my knowledge in both front-end an
 ## Check out my Social Media
 
 <a href= "[https://www.instagram.com/valenwerle/?hl=es](https://www.linkedin.com/in/david-menendez-blanco-056a18252/)">
-    [![My Skills](https://skillicons.dev/icons?i=linkedin)]
+   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <h2>Github stats:</h2> 
 
