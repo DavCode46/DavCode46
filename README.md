@@ -21,15 +21,21 @@ I am a multiplatform developer. I am expanding my knowledge in both front-end an
 ## My Skills Include
 
 <h4> Languages </h4>
-<span> 
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap, tailwind, react express, java, spring, kotlin, nodejs)](https://skillicons.dev)
-</span>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap, tailwind, react express, java, spring, kotlin, nodejs" />
+  </a>
+</p>
 
 
 <h4> Other Tools and Technologies </h4>
-<span>
- [![My Skills](https://skillicons.dev/icons?i=mysql, mongodb, aws, figma, git, maven, materialui, notion, postman)](https://skillicons.dev)
-</span>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql, mongodb, aws, figma, git, maven, materialui, notion, postman" />
+  </a>
+</p>
 
 ## Check out my Social Media
 
