@@ -50,3 +50,12 @@ I am a multiplatform developer. I am expanding my knowledge in both front-end an
 [![](https://github-readme-streak-stats.herokuapp.com/?user=DavCode46&theme=material-palenight)](https://github.com/DavCode46)
 </div>
 
+----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/DavCode46/DavCode46/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+------
+
