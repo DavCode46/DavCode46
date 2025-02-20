@@ -14,7 +14,7 @@ I am a multiplatform developer. I am expanding my knowledge in both front-end an
 - 👯 I’m looking forward to collaborating on open source projects.
 - ✔ Ask me about anything, I am happy to help!<br>
 - Outside tech, 🌟 I love enjoying nature with my dogs, 🎮 playing video games, and 🏎 exploring the world of motorsports.
-- 💌 Reach out to me at: <a href="davidblanco1993@gmail.com">valenwerlecontacto@gmail.com</a>
+- 💌 Reach out to me at: <a href="davidblanco1993@gmail.com">davidblanco1993@gmail.com</a>
 
 
 
