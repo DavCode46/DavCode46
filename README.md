@@ -46,8 +46,9 @@ I am a multiplatform developer. I am expanding my knowledge in both front-end an
 </a>
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=DavCode46&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/DavCode46)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=DavCode46&theme=material-palenight)](https://github.com/DavCode46)
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavCode46&show_icons=true&theme=tokyonight&hide_border=true&locale=en) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavCode46&theme=material-palenight) |
+| --- | --- |
+
 </div>
 
 ----
