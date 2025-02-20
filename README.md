@@ -1,6 +1,6 @@
-<div align="center">
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+David!;)](https://git.io/typing-svg)
-</div>
+ <div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+David+%F0%9F%91%8B;" alt="Headline" />
+    </div>
 
 <!--  -->
 
