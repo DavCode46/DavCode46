@@ -33,7 +33,7 @@ I am a multiplatform developer. I am expanding my knowledge in both front-end an
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql, mongodb, aws, figma, git, maven, materialui, notion, postman" />
+    <img src="https://skillicons.dev/icons?i=mysql, mongodb, aws, figma, git, maven, materialui, notion, postman&theme=light" />
   </a>
 </p>
 
