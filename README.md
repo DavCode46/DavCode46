@@ -44,7 +44,7 @@ I am a multiplatform developer. I am expanding my knowledge in both front-end an
 <a href= "https://www.linkedin.com/in/david-menendez-blanco-056a18252/">
    <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <h2>Github stats:</h2> 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github stats:
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavCode46&show_icons=true&theme=tokyonight&hide_border=true&locale=en) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavCode46&theme=material-palenight) |
 | --- | --- |
