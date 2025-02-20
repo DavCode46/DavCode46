@@ -22,7 +22,7 @@ I am a multiplatform developer. I am expanding my knowledge in both front-end an
 
 <h4> Languages </h4>
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap, tailwind, react express, java, spring, kotlin, nodejs" />
   </a>
@@ -31,7 +31,7 @@ I am a multiplatform developer. I am expanding my knowledge in both front-end an
 
 <h4> Other Tools and Technologies </h4>
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql, mongodb, aws, figma, git, maven, materialui, notion, postman" />
   </a>
