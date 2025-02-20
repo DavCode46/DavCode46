@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a multiplatform developer, currently advancing my career in software development. I am expanding my knowledge in both front-end and back-end development. I love to learn and build something new, productive, innovative, and creative.
+I am a multiplatform developer. I am expanding my knowledge in both front-end and back-end development. I love to learn and build something new, productive, innovative, and creative.
 
 - 🌱 I’m currently learning ...
   - React
